@@ -1,0 +1,19 @@
+{
+    "name": "diablo4-gear-affixes",
+    "version": "0.0.1",
+    "builtin-baseline": "036769f5d6da667391c9240bc7ca56e84cacd5b1",
+    "dependencies": [
+        {
+            "name": "catch2",
+            "version>=": "3.2.1"
+        },
+        {
+            "name": "fakeit",
+            "version>=": "2.3.0"
+        },
+        {
+            "name": "fmt",
+            "version>=": "9.1.0#1"
+        }
+    ]
+}
